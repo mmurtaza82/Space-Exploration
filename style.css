@@ -12,7 +12,7 @@ h1 {
     
 }
 #hero {
-    background-image: url("/images/space.webp");
+    background-image: url("space.webp");
     background-size: cover;
     padding: 10px 0 40px 0;
 }
